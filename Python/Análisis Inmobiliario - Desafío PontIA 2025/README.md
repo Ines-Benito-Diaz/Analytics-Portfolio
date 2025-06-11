@@ -19,6 +19,13 @@ Este proyecto analiza datos relacionales de barrios, ciudades e inmuebles desde 
 
 └── README.md
 
+## Cómo usar
+**Ejecutar en Google Colab**
+
+Haz clic en el siguiente botón para abrir el notebook en Colab y ejecutarlo sin instalaciones locales:
+
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ines-Benito-Diaz/Analytics-Portfolio/blob/main/Python/Análisis%20Inmobiliario%20-%20Desafío%20PontIA%202025/Análisis%20Inmobiliario%20-%20Jupyter%20Notebook.ipynb)
+
 ### Fuentes de datos
 Planteamiento del caso práctico y datos de PontIA.
 
