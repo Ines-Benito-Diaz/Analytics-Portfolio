@@ -15,7 +15,7 @@ Este proyecto analiza datos relacionales de barrios, ciudades e inmuebles desde 
 ## 📂 Estructura del proyecto
 ├── CVSs/ # Datos crudos sin procesar
 
-├── output/ # Visualizaciones y resultados
+├── output/ # Visualizaciones
 
 ├── Análisis Inmobiliario - Jupyter Notebook.ipynb # Notebook reproducible
 
