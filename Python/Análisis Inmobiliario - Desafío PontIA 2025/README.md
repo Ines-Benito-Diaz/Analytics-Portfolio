@@ -15,11 +15,13 @@ Este proyecto analiza datos relacionales de barrios, ciudades e inmuebles desde 
 ## 📂 Estructura del proyecto
 ├── CVSs/ # Datos crudos sin procesar
 
+├── output/ # Visualizaciones y resultados
+
 ├── Análisis Inmobiliario - Jupyter Notebook.ipynb # Notebook reproducible
 
-├── requirements.txt # Librerías utilizadas y su versión
+├── Presentación Análisis inmobiliario - Desafío Pontia.pdf # Presentación resumen del proyecto en formato PDF
 
-├── output/ # Visualizaciones y resultados
+├── requirements.txt # Librerías utilizadas y su versión
 
 └── README.md
 
