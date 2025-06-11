@@ -1,0 +1,34 @@
+ciudad,barrio,distrito,renta_media,precio_m2_barrio,latitud_barrio,longitud_barrio,num_colegios,num_centros_salud,num_estaciones_transp,num_zonas_verdes,nivel_servicios,indice_seguridad,indice_contaminacion,indice_accesibilidad
+Madrid,Salamanca,Centro,28477.0,6356.0,40.4207,-3.7176,1,3,3,1,Medio,6.3,3.1,8.4
+Madrid,Chamberí,Centro,30715.0,5036.0,40.4085,-3.7091,2,1,0,1,Bajo,4.2,6.1,6.6
+Madrid,Retiro,Norte,20788.0,3372.0,40.4166,-3.7224,3,1,7,1,Alto,9.3,5.5,4.6
+Madrid,Centro,Periférico,30416.0,5648.0,40.408,-3.7021,1,0,3,4,Medio,5.7,5.7,6.5
+Madrid,Tetuán,Periférico,27319.0,5002.0,40.3993,-3.7114,3,1,6,0,Alto,8.0,4.9,8.6
+Madrid,Arganzuela,Periférico,31325.0,5480.0,40.4132,-3.6936,1,0,6,4,Alto,6.5,6.6,6.4
+Barcelona,Eixample,Centro,33916.0,8007.0,41.3654,2.1738,1,0,4,3,Medio,6.1,4.1,7.0
+Barcelona,Gràcia,Centro,25422.0,3944.0,41.3762,2.1897,1,2,4,3,Alto,10.0,6.3,8.4
+Barcelona,Sants-Montjuïc,Sur,36946.0,5603.0,41.3856,2.1625,1,1,2,0,Bajo,7.8,8.2,5.2
+Barcelona,Ciutat Vella,Centro,26592.0,5397.0,41.3748,2.1571,4,4,1,2,Alto,8.5,7.4,5.9
+Barcelona,Sarrià-Sant Gervasi,Centro,38060.0,8190.0,41.3741,2.1819,1,3,2,1,Medio,7.2,6.9,7.5
+Valencia,Ruzafa,N/A,26937.0,6182.0,39.47,-0.3732,1,1,0,1,Bajo,7.7,6.7,8.1
+Valencia,El Carmen,N/A,28313.0,6975.0,39.484,-0.3845,2,0,4,2,Medio,6.4,8.6,7.1
+Valencia,Ensanche,N/A,31107.0,6851.0,39.4643,-0.3846,5,2,4,1,Alto,8.1,10.0,4.2
+Valencia,Benimaclet,N/A,29804.0,4562.0,39.4514,-0.3634,1,2,2,3,Medio,4.1,7.0,7.7
+Valencia,Campanar,N/A,32336.0,5726.0,39.4675,-0.3932,0,3,1,2,Medio,5.6,5.1,8.4
+Sevilla,Triana,N/A,39855.0,7651.0,37.379,-5.9903,1,0,0,0,Bajo,8.0,7.7,8.2
+Sevilla,Nervión,N/A,18511.0,3687.0,37.388,-5.9976,2,1,5,0,Medio,6.4,6.7,7.1
+Sevilla,Los Remedios,N/A,29530.0,6129.0,37.3846,-5.9788,3,2,1,0,Medio,6.7,7.4,6.1
+Sevilla,Macarena,N/A,23543.0,5521.0,37.37,-5.9719,1,3,2,4,Alto,5.8,6.0,8.7
+Sevilla,Santa Cruz,N/A,35870.0,8087.0,37.3732,-5.9684,2,1,0,1,Bajo,5.8,7.5,6.8
+Bilbao,Abando,N/A,25679.0,5474.0,43.2609,-2.9433,3,1,1,3,Medio,7.4,7.9,9.0
+Bilbao,Indautxu,N/A,21967.0,5100.0,43.2712,-2.9517,0,2,5,4,Alto,6.8,6.5,7.0
+Bilbao,Deusto,N/A,20224.0,3274.0,43.2477,-2.929,4,1,1,1,Medio,6.4,7.1,8.5
+Bilbao,Casco Viejo,N/A,28315.0,5728.0,43.2682,-2.9272,4,0,5,2,Alto,6.6,4.1,7.5
+Málaga,Centro,N/A,28999.0,4821.0,36.7377,-4.4085,6,0,3,5,Alto,8.0,4.6,6.1
+Málaga,La Malagueta,N/A,25037.0,5681.0,36.7391,-4.4074,1,0,5,0,Medio,6.6,7.4,10.0
+Málaga,Pedregalejo,N/A,25804.0,6070.0,36.7234,-4.419,2,0,4,0,Medio,8.8,8.6,4.4
+Málaga,El Palo,N/A,16717.0,4019.0,36.7152,-4.4208,5,2,4,1,Alto,3.4,5.3,7.7
+Zaragoza,Centro,N/A,30232.0,5968.0,41.6555,-0.9022,1,0,1,0,Bajo,6.1,6.8,5.4
+Zaragoza,La Romareda,N/A,21124.0,4232.0,41.6564,-0.9075,2,2,3,1,Medio,4.7,10.0,6.5
+Zaragoza,Delicias,N/A,20614.0,4633.0,41.6303,-0.899,4,1,2,0,Medio,3.2,5.4,6.0
+Zaragoza,San José,N/A,19587.0,4682.0,41.6525,-0.8819,2,1,2,1,Medio,6.0,8.4,9.9
