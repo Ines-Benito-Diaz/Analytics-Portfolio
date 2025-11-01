@@ -1,8 +1,10 @@
-![Banner](https://raw.githubusercontent.com/anothersigma0x/reconocimiento_de_emociones/main/BANNER.jpg)
-# Proyecto Júpiter - Reconocimiento de Emociones - PontIA - Pontia World
+
+![banner](https://github.com/user-attachments/assets/b925cff4-bd22-42c3-b6bc-2adcb450bff8)
+
+# Proyecto Júpiter - Reconocimiento de Emociones - PontIA World 🎡
 
 ## Descripción
-El proyecto **Júpiter**, desarrollado como parte de un Máster en Data Science, tiene como objetivo aplicar técnicas de análisis de datos y ciencia de datos para mejorar la experiencia de los visitantes en los parques temáticos de la empresa ficticia **Pontia World**. El proyecto se centra en automatizar el reconocimiento de emociones en imágenes faciales (48x48 píxeles en blanco y negro) capturadas en las atracciones, junto con una transformación digital de la gestión de datos. Las etapas principales incluyen:
+El proyecto **Júpiter**, desarrollado como parte de un Máster en Data Analytics & Science, tiene como objetivo aplicar técnicas de análisis de datos y ciencia de datos para mejorar la experiencia de los visitantes en los parques temáticos de la empresa **Pontia World**. El proyecto se centra en automatizar el reconocimiento de emociones en imágenes faciales (48x48 píxeles en blanco y negro) capturadas en las atracciones, junto con una transformación digital de la gestión de datos. Las etapas principales incluyen:
 
 - **ETL con Python**: Procesamiento de datos JSON para limpieza y preparación.
 - **Base de Datos en MySQL**: Diseño de un modelo relacional para almacenar datos de visitas.
@@ -137,7 +139,7 @@ Conecta a la base de datos pontia_world usando el conector MySQL.
 
 Asegúrate de tener los datos (imágenes y JSON) en el directorio local especificado en los scripts.
 
-### Nota: Los datos no están en un repositorio público. Contacta al equipo del proyecto para obtener acceso.
+### Nota: Los datos no están en un repositorio público.
 
 ### Resultados y Evaluación
 
@@ -172,16 +174,15 @@ Rendimiento del modelo: Dificultad para mejorar la precisión en emociones ambig
 
 ### DASHBOARD
 
-
-<img src="https://raw.githubusercontent.com/anothersigma0x/reconocimiento_de_emociones/main/Dashboard.png" alt="Dashboard de Power BI"> 
+<img width="2065" height="1157" alt="Dashboard captura" src="https://github.com/user-attachments/assets/6616eb23-cb87-4190-8135-bc8e92aceaad" />
 
 
 ### Contribuyentes
 
-### Anamaria Turdas
+Anamaria Turda
 
-### William Ganem
+William Ganem
 
-### Ines Benito
+Inés Benito
 
-### Iñigo Ugidos
+Iñigo Ugidos
