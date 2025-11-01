@@ -172,7 +172,7 @@ Datos erróneos: Valores negativos en tiempos de espera y precios corregidos dur
 Rendimiento del modelo: Dificultad para mejorar la precisión en emociones ambiguas (fear, sad) debido a confusiones en la matriz de confusión.
 
 
-### DASHBOARD
+## Dashboard
 
 <img width="2065" height="1157" alt="Dashboard captura" src="https://github.com/user-attachments/assets/6616eb23-cb87-4190-8135-bc8e92aceaad" />
 
