@@ -174,7 +174,7 @@ Rendimiento del modelo: Dificultad para mejorar la precisión en emociones ambig
 
 ## Dashboard
 
-<img width="2065" height="1157" alt="Dashboard captura" src="https://github.com/user-attachments/assets/6616eb23-cb87-4190-8135-bc8e92aceaad" />
+<img width="1048" height="589" alt="Dashboard Pontia World_Power BI" src="https://github.com/user-attachments/assets/af7585d7-7ee0-42bf-a885-c928ef946bcc" />
 
 
 ### Contribuyentes
