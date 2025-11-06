@@ -17,7 +17,7 @@ Este proyecto analiza datos relacionales de barrios, ciudades e inmuebles desde 
 
 ├── 02. Dashboard
 
-├── 03. Presentación + output
+├── 03. Presentación proyecto + output
 
 ├── requirements.txt 
 
